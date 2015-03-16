@@ -1,7 +1,7 @@
 
 # curve.py
 
-To run this wonderful application you will need numpy, cairo ans PyQt.
+To run this wonderful application you will need numpy, cairo and PyQt.
 
 ## Examples
 
